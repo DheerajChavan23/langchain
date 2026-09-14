@@ -109,6 +109,4 @@ MIT License — free to use, modify, and distribute.
 
 <div align="center">
 
-### ⭐ If you like this project, give it a star!
-
 </div>
