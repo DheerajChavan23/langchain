@@ -101,11 +101,11 @@ print(agent("What's the weather in Dublin?"))
 
 ## Contributing
 
-PRs welcome — open an issue for bugs, features, or docs improvements.
+PRs welcome - open an issue for bugs, features, or docs improvements.
 
 ## License
 
-MIT License — free to use, modify, and distribute.
+MIT License - free to use, modify, and distribute.
 
 <div align="center">
 
